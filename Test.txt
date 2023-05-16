@@ -2,3 +2,4 @@ Prva linija koda
 Druga linija koda
 Treća linija koda
 Dodana lokalna četvrta linija
+Četvrta linija koda
